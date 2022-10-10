@@ -1,4 +1,4 @@
-package finalkeyword;
+package org.tnsindia.finalkeyword;
 
 
 //Demo on final keyword with variable

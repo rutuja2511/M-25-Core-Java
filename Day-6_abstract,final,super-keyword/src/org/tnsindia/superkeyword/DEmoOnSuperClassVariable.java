@@ -1,4 +1,4 @@
-package superkeyword;
+package org.tnsindia.superkeyword;
 
 // Parent class or Super class or Base class
 class Animal

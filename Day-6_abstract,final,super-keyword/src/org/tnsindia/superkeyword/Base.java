@@ -1,4 +1,4 @@
-package superkeyword;
+package org.tnsindia.superkeyword;
 
 public abstract class Base 
 {

@@ -1,5 +1,5 @@
 
-package finalkeyword;
+package org.tnsindia.finalkeyword;
 class FinalClass
 {
 	protected String name="Rutuja";

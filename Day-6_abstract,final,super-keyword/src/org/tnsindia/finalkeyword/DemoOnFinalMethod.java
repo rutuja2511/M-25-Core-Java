@@ -1,4 +1,4 @@
-package finalkeyword;
+package org.tnsindia.finalkeyword;
 
 class FinalMethod 
 { 
